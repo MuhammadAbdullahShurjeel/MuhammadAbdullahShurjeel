@@ -8,6 +8,7 @@
 * [Stx Business Senators](https://github.com/FzzyYT69/stx-business_senator)
 * [Stx Ped Menu](https://github.com/FzzyYT69/stx-pedmenu)
 * [Stx Drive Thru](https://github.com/FzzyYT69/stx-drivethru)
+* [FiveM UseFull Snippets](https://github.com/FzzyYT69/QBCore-Esx--UseFull_Snippets)
 
 ### Want To Hire ?
 * [Discord](https://discord.gg/68Uj9ZhubX)
