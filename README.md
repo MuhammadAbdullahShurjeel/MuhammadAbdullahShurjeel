@@ -1,7 +1,7 @@
 [![FzzY](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=F70000&random=false&width=435&lines=Hey%2C+I+am+FzzY;Welcome+to+my+github+!)](https://git.io/typing-svg)
 [![Fzzy's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadabdullahshurjeel)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/:1289579712737443933)](https://discord.com/users/:1289579712737443933)
+[![Discord Presence](https://lanyard.cnrad.dev/api/1289579712737443933)](https://discord.com/users/1289579712737443933)
 
 ### MY PROJECTS
 * [Stx PostOP](https://github.com/FzzyYT69/stx-postop)
