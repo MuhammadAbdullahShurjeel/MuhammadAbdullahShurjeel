@@ -12,3 +12,15 @@
 💬 You can contact me through mail for any inquiry : abdullah.shurjeel7861@gmail.com
 
 </div>
+
+# Projects
+
+You can find my projects here on github.
+
+# Organization
+
+I am running a small organization called Stx Developments.
+
+[Tebex](https://stxlabs.tebex.io)
+[Github](https://github.com/Stx-Development)
+[Discord](https://discord.gg/fPjSxEHFMt)
