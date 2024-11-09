@@ -25,16 +25,10 @@ You can find my projects here on github.
 
 # Organization
 
-I am running a small organization called Stx Developments.
-
-<div>
-
-<a href="https://github.com/MuhammadAbdullahShurjeel"><img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black"/> </a>
-
+I am running a small organization called Stx Developments
+<div align='center'>
+<a href="https://github.com/Stx-Development"><img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black"/> </a>
 <a href="https://stxlabs.tebex.io"><img src="https://img.shields.io/badge/Tebex-white?style=for-the-badge&logo=tebex&color=black"/> </a>
-
 <a href="https://discord.gg/fPjSxEHFMt"><img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&color=grey"/> </a>
-
-
 </div>
 
