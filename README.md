@@ -2,7 +2,7 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi+There+!;I+am+Muhammad+Abdullah+Shurjeel" alt="Typing SVG" /></a>
 </div>
 <hr>
-[Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)(https://www.linkedin.com/in/muhammad-abdullah-shurjeel-85410b329/)
+[Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)
 
 
 
