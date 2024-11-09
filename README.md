@@ -4,6 +4,7 @@
 <hr>
 [Static Badge](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin)
 
+<a href=""><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" /> </a>
 
 
 <div align="center">
