@@ -4,6 +4,8 @@
 
 <div align = 'center'>
 <a href="https://www.linkedin.com/in/muhammad-abdullah-shurjeel-85410b329/"><img src="https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin" /> </a>
+<a href="https://www.fiverr.com/adbullahsh?up_rollout=true"><img src="https://img.shields.io/badge/Fiverr-00BF40?style=for-the-badge&logo=fiverr&logoColor=black" /> </a>
+
 </div>
 
 <hr>
