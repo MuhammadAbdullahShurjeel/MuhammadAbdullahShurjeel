@@ -27,6 +27,14 @@ You can find my projects here on github.
 
 I am running a small organization called Stx Developments.
 
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black">
+<a href="https://github.com/MuhammadAbdullahShurjeel"><img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=github&logoColor=black"/> </a>
+
+<a href="https://stxlabs.tebex.io"><img src="https://img.shields.io/badge/Tebex-white?style=for-the-badge&logo=tebex&color=grey"/> </a>
+
+</div>
+
 [Tebex](https://stxlabs.tebex.io)  
 
 [Github](https://github.com/Stx-Development)  
