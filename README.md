@@ -33,10 +33,8 @@ I am running a small organization called Stx Developments.
 
 <a href="https://stxlabs.tebex.io"><img src="https://img.shields.io/badge/Tebex-white?style=for-the-badge&logo=tebex&color=grey"/> </a>
 
+<a href="https://discord.gg/fPjSxEHFMt"><img src="https://img.shields.io/badge/Discord-blue?style=for-the-badge&logo=discord&color=grey"/> </a>
+
+
 </div>
 
-[Tebex](https://stxlabs.tebex.io)  
-
-[Github](https://github.com/Stx-Development)  
-
-[Discord](https://discord.gg/fPjSxEHFMt)  
