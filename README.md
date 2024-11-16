@@ -19,9 +19,7 @@
 
 </div>
 
-# Languages
-
-These are the following languages that i work on.
+# My Skills
 <div align='center'>
 <img src="https://skillicons.dev/icons?i=git,c,cpp,lua,py,mysql" />
 </div>
