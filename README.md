@@ -23,7 +23,7 @@
 
 These are the following languages that i work on.
 <div align='center'>
-![My Skills](https://skillicons.dev/icons?i=lua,py)
+<img src="https://skillicons.dev/icons?i=git,c,cpp,lua,py" />
 </div>
 # Organization
 
