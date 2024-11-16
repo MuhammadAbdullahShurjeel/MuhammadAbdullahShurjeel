@@ -23,7 +23,7 @@
 
 These are the following languages that i work on.
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)]
+![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)
 
 # Organization
 
