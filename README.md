@@ -23,6 +23,7 @@
 <div align='center'>
 <img src="https://skillicons.dev/icons?i=git,c,cpp,lua,py,pycharm,mysql" />
 </div>
+
 # Organization
 
 I am running a small organization called Stx Developments
