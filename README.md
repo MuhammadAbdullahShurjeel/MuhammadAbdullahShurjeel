@@ -22,9 +22,9 @@
 # Languages
 
 These are the following languages that i work on.
-
+<div align='center'>
 ![My Skills](https://skillicons.dev/icons?i=lua,py)
-
+</div>
 # Organization
 
 I am running a small organization called Stx Developments
